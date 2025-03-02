@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 3px solid rgb(19, 18, 18);
+    margin: 15px;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+.flash{
+    background-color: white;
+}
+h3{
+    border: 3px solid black;
+    width: 30%;
+    margin-left: 34%;
+    border-radius: 20px;
+    background-color: aquamarine;
+    padding: 4px;
+}
